@@ -1,4 +1,6 @@
-Use Restauracja;
+Create database Restaurant
+
+Use Restaurant;
 
 drop table Reservation;
 drop table TBL;
